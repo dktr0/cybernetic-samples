@@ -51,5 +51,5 @@ git push
 
 ```
 cd ~/cybernetic-samples
-git pull https://github.com/d0kt0r0/cybernetic-samples.git master
+git pull https://github.com/d0kt0r0/cybernetic-samples.git main
 ```
