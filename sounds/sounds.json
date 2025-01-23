@@ -43,6 +43,7 @@
 { "url":"contratiempos/0ContratiempoCerrado.wav","type":"audio","bank":"contratiempos","n":0},
 { "url":"contratiempos/1ContratiempoAbierto.wav","type":"audio","bank":"contratiempos","n":1},
 { "url":"contratiempos/2ContratiempoCerrado.wav","type":"audio","bank":"contratiempos","n":2},
+{ "url":"crackling/crackling.wav","type":"audio","bank":"crackling","n":0},
 { "url":"cuerdas/0cuerda.wav","type":"audio","bank":"cuerdas","n":0},
 { "url":"cuerdas/1cuerda.wav","type":"audio","bank":"cuerdas","n":1},
 { "url":"custom/0custom.wav","type":"audio","bank":"custom","n":0},
@@ -190,6 +191,7 @@
 { "url":"litefix/litefix3.wav","type":"audio","bank":"litefix","n":3},
 { "url":"litefix/litefix4.wav","type":"audio","bank":"litefix","n":4},
 { "url":"litefix/litefix5.wav","type":"audio","bank":"litefix","n":5},
+{ "url":"lovebird/fifi.wav","type":"audio","bank":"lovebird","n":0},
 { "url":"lxpaper/gelboing.wav","type":"audio","bank":"lxpaper","n":0},
 { "url":"lxpaper/gelflap2.wav","type":"audio","bank":"lxpaper","n":1},
 { "url":"lxpaper/gelflapa.wav","type":"audio","bank":"lxpaper","n":2},
@@ -336,6 +338,5 @@
 { "url":"water/2water.wav","type":"audio","bank":"water","n":1},
 { "url":"water/3water.wav","type":"audio","bank":"water","n":2},
 { "url":"whiteChair/1whiteChair-stacking.wav","type":"audio","bank":"whiteChair","n":0},
-{ "url":"whiteChair/2whiteChair-unstacking.wav","type":"audio","bank":"whiteChair","n":1},
-{ "url":"lovebird/fifi.wav","type":"audio","bank":"lovebird","n":0}
+{ "url":"whiteChair/2whiteChair-unstacking.wav","type":"audio","bank":"whiteChair","n":1}
 ]
