@@ -338,5 +338,7 @@
 { "url":"water/2water.wav","type":"audio","bank":"water","n":1},
 { "url":"water/3water.wav","type":"audio","bank":"water","n":2},
 { "url":"whiteChair/1whiteChair-stacking.wav","type":"audio","bank":"whiteChair","n":0},
-{ "url":"whiteChair/2whiteChair-unstacking.wav","type":"audio","bank":"whiteChair","n":1}
+{ "url":"whiteChair/2whiteChair-unstacking.wav","type":"audio","bank":"whiteChair","n":1},
+{ "url":"oh/oh_01.wav","type":"audio","bank":"oh","n":0},
+{ "url":"oh/oh_02.wav","type":"audio","bank":"oh","n":1}
 ]
